@@ -1,3 +1,3 @@
 # musicplayer
 
-<img src="music.png">
+<img src="music.png" alt="" srcset="">
