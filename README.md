@@ -1,3 +1,4 @@
 # musicplayer
 
-<img src="music.png" alt="" srcset="">
+![Ödev için resim](https://imgyukle.com/i/QgGpkM)
+
